@@ -1,0 +1,196 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 967px;
+
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+    gap: 5px;
+    margin-top: 75px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main1{
+    width: 96.7%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main1 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+}
+.parag1 p{
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.line{
+    width: 1150px;
+    border: 1px solid gainsboro;
+    margin-left: 30px;
+
+}
+.line1 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line1 a{
+    color: blue;
+    font-weight: bold;
+}
+.line2 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line2 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line3 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line3 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line4 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line4 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line5 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line5 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line6 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line6 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line7 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line7 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line8 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line8 a{
+    color: blue;
+    font-weight: bold;
+    
+}
+.line9 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line9 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line10 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line10 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line11 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line11 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line12 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line12 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line13 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.line13 a{
+    color: blue;
+    font-weight: bold;
+
+}
+.line14{
+    width: 1150px;
+    border: 1px solid gainsboro;
+    margin-left: 30px;
+
+}
+.about1{
+    height: 120px;
+    width: 100%;
+    border: 1px solid gainsboro;
+    background-color: #35425d;
+    margin-top: 6%;
+
+}
+.about11{
+    margin-left: 20px;
+    padding: 20px;
+}
+.about111{
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}

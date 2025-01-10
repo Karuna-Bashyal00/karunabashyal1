@@ -1,0 +1,141 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 2050px;
+   
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.main1{
+    display: flex;
+    gap: 5px;
+    margin-top: 50px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main2{
+    width: 96.7%;
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main2 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+
+}
+.notbold p{
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.bold h1{
+    margin-left: 30px;
+    margin-top: -20px;
+}
+.bold3 h3{
+    margin-left: 30px;
+    margin-top: -15px;
+}
+.bold4 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold5 h3{
+    margin-left: 30px;
+
+}
+.bold6 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold7 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold8 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold9 h3{
+    margin-left: 30px;
+
+}
+.bold10 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold11 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold12 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold13 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold14 h2{
+    margin-left: 30px;
+
+}
+.bold15 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold16 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.bold17 p{
+    margin-left: 30px;
+    font-size: large;
+}
+
+table{
+    
+    height: 500px;
+    width: 1100px;
+    margin-left: 30px;
+    border: 1px solid gainsboro;
+}
+.last p{
+    margin-left: 30px;
+    font-size: large;
+}
+.last1 h3{
+    margin-left: 30px;
+
+}
+.last2 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.last3 p{
+    margin-left: 30px;
+    font-size: large;
+}

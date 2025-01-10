@@ -1,0 +1,285 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 1875px;
+
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+    gap: 5px;
+    margin-top: 75px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main1{
+    width: 96.7%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main1 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+}
+.parag1 p{
+    margin-left: 30px;
+    font-size: xx-large;
+
+}
+.line{
+    border: 1px solid gainsboro;
+    width: 93%;
+    margin-left: 30px;
+    margin-top: -2%;
+}
+.parag2 h2{
+    margin-left: 100px;
+    color: red;
+    font-size: 25px;
+ 
+}
+.div1 p{
+    color: blue;
+    margin-left: 30px;
+    font-size: 17px;
+    margin-top: 3%;
+    font-weight: bold;
+}
+.div2 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+}
+.div3 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    font-weight: bold;
+}
+.div4 p{
+    margin-left: 50px;
+    font-size: 18.5px;
+    margin-bottom: -1%;
+
+
+}
+.div5 p{
+    margin-left: 50px;
+    font-size: 18.5px;
+    margin-bottom: -1%;
+    
+}
+.div6 p{
+    margin-left: 50px;
+    font-size: 18.5px;
+    margin-bottom: -1%;
+
+
+    
+}
+.div7 p{
+    margin-left: 50px;
+    font-size: 18.5px;
+    margin-bottom: -1%;
+
+    
+}
+.div8 p{
+    margin-left: 50px;
+    font-size: 18.5px;
+    
+}
+.div9 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    font-weight: bold;
+}
+.div10 i{
+    margin-left: 30px;
+    font-size: 19px;
+
+}
+.div11 p{
+    margin-left: 50px;
+    font-size: 18px;
+    margin-bottom: -1%;
+    
+}
+.div12 p{
+    margin-left: 50px;
+    font-size: 18px;
+    
+}
+.div13 i{
+    margin-left: 30px;
+    font-size: 19px;
+
+}
+.div14 p{
+    margin-left: 50px;
+    font-size: 18px;
+    
+}
+.div15 i{
+    margin-left: 30px;
+    font-size: 19px;
+
+}
+.div16 p{
+    margin-left: 50px;
+    font-size: 18px;
+    margin-bottom: -1%;
+
+    
+}
+.div17 p{
+    margin-left: 50px;
+    font-size: 18px;
+
+    
+}
+.div18 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    
+}
+.div19 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    font-weight: bold;
+    
+}
+.div20 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    font-weight: bold;
+    
+}
+.div21 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    font-weight: bold;
+    
+}
+.div22 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    margin-top: 6%;
+    
+}
+.div23 i{
+    margin-left: 30px;
+    font-size: 18.5px;
+    
+}
+.div24 p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    
+}
+.last p{
+    margin-left: 30px;
+    font-size: 18.5px;
+    font-weight: bold;
+    margin-bottom: -1%;
+    
+}
+.last1 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-bottom: -1.5%;
+
+    
+}
+.last2 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-bottom: -1.5%;
+
+    
+}
+.last3 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-bottom: -1.5%;
+
+    
+}
+.last4 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-bottom: -1.5%;
+
+    
+}
+.last5 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-bottom: -1.5%;
+
+    
+}
+.last6 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-bottom: -1.5%;
+
+    
+}
+.last7 p{
+    margin-left: 30px;
+    font-size: 18px;
+
+    
+}
+.last8 h2{
+    margin-left: 80px;
+    color: red;
+    font-size: 25px;
+
+}
+.last9 h2{
+    margin-left: 30px;
+    margin-top: 3%;
+
+}
+.about1{
+    height: 120px;
+    width: 100%;
+    border: 1px solid gainsboro;
+    background-color: #35425d;
+    margin-top: 6%;
+
+}
+.about11{
+    margin-left: 20px;
+    padding: 20px;
+}
+.about111{
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}
+

@@ -1,0 +1,251 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 1450px;
+
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+    gap: 5px;
+    margin-top: 75px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main1{
+    width: 96.7%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main1 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+}
+.aa p{
+    margin-left: 30px;
+    font-size: xx-large;
+}
+.line{
+    width: 95%;
+    border: 1px solid gainsboro;
+    margin-left: 30px;
+    margin-top: -2%;
+}
+.aa1 p{
+    margin-left: 30px;
+    font-size: 19px;
+    font-weight: bold;
+}
+.visa1 p{
+    margin-left: 30px;
+    font-size: 18px;
+    margin-top: 5%;
+}
+.visa2 p{
+    margin-left: 30px;
+    font-size: 18px;
+}
+.visa3 p{
+    margin-left: 30px;
+    font-size: 17.5px;
+    margin-top: 3%;
+    margin-bottom: -1%;
+}
+.visa4 p{
+    margin-left: 30px;
+    font-size: 17.5px;
+    margin-bottom: -1%;
+
+
+}
+.visa5 p{
+    margin-left: 30px;
+    font-size: 17.5px;
+    margin-bottom: -1%;
+
+
+}
+.visa6 p{
+    margin-left: 30px;
+    font-size: 17.5px;
+    margin-bottom: -1%;
+
+
+}
+.visa7 p{
+    margin-left: 30px;
+    font-size: 17.5px;
+}
+.div10 i{
+    margin-left: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.box{
+    height: 233px;
+    width: 1130px;
+    margin-left: 30px;
+    border: 1px solid gainsboro;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.box1{
+    height: 180px;
+    width: 1130px;
+    border: 1px solid gainsboro;
+    display: flex;
+}
+.type1{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    
+}
+.type2{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+}
+.type3{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type4{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.box2{
+    height: 50px;
+    width: 1130px;
+    border:1px solid gainsboro;
+    display: flex;
+}
+.type5{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type6{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type7{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type8{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.ser1 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.ser2 i{
+    margin-left: 30px;
+    font-size: large;
+    font-weight: bolder;
+}
+.ser3 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.ser4 h3{
+    margin-left: 30px;
+}
+.ser5 p{
+    margin-left: 30px;
+    margin-top: -15px;
+}
+.ser6 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.ser7 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.ser8 i{
+    margin-left: 30px;
+    font-weight: bolder;
+    font-size: large;
+
+}
+.ser9 p{
+    margin-left: 30px;
+    font-size: large;
+
+}
+.ser10 h3{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+
+
+.last8{
+    margin-left: 30px;
+    width: 1150px;
+    border: 1px solid gainsboro;
+}
+.about1{
+    height: 120px;
+    width: 100%;
+    border: 1px solid gainsboro;
+    background-color: #35425d;
+    margin-top: 6%;
+
+}
+.about11{
+    margin-left: 20px;
+    padding: 20px;
+}
+.about111{
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}

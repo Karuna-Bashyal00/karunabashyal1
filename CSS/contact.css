@@ -1,0 +1,154 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 2270px;
+
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+    gap: 5px;
+    margin-top: 75px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main1{
+    width: 96.7%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main1 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+}
+.parag1 p{
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.line{
+    width: 1150px;
+    border: 1px solid gainsboro;
+    margin-left: 30px;
+
+}
+.address h2{
+    margin-left: 30px;
+}
+.add1 p{
+    margin-left: 30px;
+    margin-top: -15px;
+}
+.add2 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.add3 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.mail h2{
+    margin-left: 30px;
+}
+.mail1 p{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+.mail2 p{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+.mail3 p{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+.mail4 p{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+.mail5 h2{
+    margin-left: 70px;
+    margin-top: 40px;
+
+}
+.mail6 p{
+    margin-left: 30px;
+    font-size: 25px;
+
+}
+.table1{
+    margin-left: 30px;
+}
+table{
+    height: 300px;
+    width: 1100px;
+    border: 1px solid gainsboro;
+}
+.emb{
+    margin-left: 30px;
+    margin-top: 40px;
+    color: blue;
+}
+.table2{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.web p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.web1 p{
+    margin-left: 30px;
+    font-size: 17px;
+}
+.pic img{
+    height: 500px;
+    width: 700px;
+
+}
+.about1{
+    height: 120px;
+    width: 100%;
+    border: 1px solid gainsboro;
+    background-color: #35425d;
+    margin-top: 6%;
+
+}
+.about11{
+    margin-left: 20px;
+    padding: 20px;
+}
+.about111{
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}

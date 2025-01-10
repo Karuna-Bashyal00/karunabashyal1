@@ -1,0 +1,97 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 670px;
+   
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.main1{
+    display: flex;
+    gap: 5px;
+    margin-top: 50px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main2{
+    width: 96.7%;
+    /* position:absolute; */
+}
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main2 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+
+}
+.invt1 h1{
+    margin-left: 30px;
+    margin-top: 3%;
+ 
+}
+.invt2 h3{
+    margin-left: 30px;
+ 
+ 
+}
+.invt3 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.invt4 h3{
+    margin-left: 30px;
+ 
+ 
+}
+.invt5 a{
+    color: blue;
+    margin-left: 30px;
+    font-size: 20px;
+
+}
+.invt6 a{
+    color: blue;
+    margin-left: 30px;
+    font-size: 20px;
+}
+.invt7{
+    height: 120px;
+    width: 100%;
+    border: 1px solid gainsboro;
+    background-color: #35425d;
+    margin-top: 5.5%;
+
+}
+.invt77{
+    margin-left: 20px;
+    padding: 20px;
+}
+.invt777{
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}

@@ -1,0 +1,292 @@
+.main{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: 1px solid gainsboro;
+    box-shadow: 2px 2px 2px 2px gainsboro;
+    height: 1700px;
+
+}
+.img1 img{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.icon{
+    display: flex;
+    gap: 5px;
+    margin-top: 75px;
+}
+.container{
+    background-color:white;
+    display: flex;
+    gap: 600px;
+    
+}
+.main1{
+    width: 96.7%;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #093d63;
+    color: white;
+    height: 40px;
+    width: 100%;
+    gap: 15px;
+    list-style:  none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.main1 ul li:hover{
+    background-color:  #21759b;
+    padding: 5px;
+}
+.parag1 p{
+    font-size: xx-large;
+    margin-left: 30px;
+}
+.line{
+    width: 1150px;
+    border: 1px solid gainsboro;
+    margin-left: 30px;
+
+}
+.div1 p{
+    margin-left: 30px;
+    font-size: 18px;
+   
+}
+.div2 i{
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: bolder;
+   
+}
+.div3 p{
+    margin-left: 30px;
+    font-size: large;
+    margin-bottom: -15px;
+}
+.div4 p{
+    margin-left: 30px;
+    font-size: large;
+    margin-bottom: -15px;
+
+}
+.div5 p{
+    margin-left: 30px;
+    font-size: large;
+    margin-bottom: -15px;
+}
+.div6 p{
+    margin-left: 30px;
+    font-size: large;
+    margin-bottom: -15px;
+}
+.div7 p{
+    margin-left: 30px;
+    font-size: large;
+    margin-bottom: -15px;
+}
+.div8 p{
+    margin-left: 30px;
+    font-size: large;
+    margin-bottom: -15px;
+}
+.div9 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.div10 i{
+    margin-left: 30px;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.box{
+    height: 233px;
+    width: 1130px;
+    margin-left: 30px;
+    border: 1px solid gainsboro;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.box1{
+    height: 180px;
+    width: 1130px;
+    border: 1px solid gainsboro;
+    display: flex;
+}
+.type1{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    
+}
+.type2{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+}
+.type3{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type4{
+    height: 180px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.box2{
+    height: 50px;
+    width: 1130px;
+    border:1px solid gainsboro;
+    display: flex;
+}
+.type5{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type6{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type7{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.type8{
+    height: 50px;
+    width: 282.5px;
+    border: 1px solid gainsboro;
+    text-align: center;
+
+}
+.ser1 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.ser2 i{
+    margin-left: 30px;
+    font-size: large;
+    font-weight: bolder;
+}
+.ser3 p{
+    margin-left: 30px;
+    font-size: large;
+}
+.ser4 h3{
+    margin-left: 30px;
+}
+.ser5 p{
+    margin-left: 30px;
+    margin-top: -15px;
+}
+.ser6 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.ser7 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.ser8 i{
+    margin-left: 30px;
+    font-weight: bolder;
+    font-size: large;
+
+}
+.ser9 p{
+    margin-left: 30px;
+    font-size: large;
+
+}
+.ser10 h3{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+.ser11 p{
+    margin-left: 30px;
+
+}
+.last h3{
+    margin-left: 30px;
+    font-size: 17px;
+
+}
+.last1 p{
+    margin-left: 30px;
+}
+.last2 p{
+    margin-left: 30px;
+    margin-top: -15px;
+    
+}
+.last3 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.last4 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.last5 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.last6 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.last7 p{
+    margin-left: 30px;
+    margin-top: -15px;
+
+}
+.last8{
+    margin-left: 30px;
+    width: 1150px;
+    border: 1px solid gainsboro;
+}
+.about1{
+    height: 120px;
+    width: 100%;
+    border: 1px solid gainsboro;
+    background-color: #35425d;
+    margin-top: 6%;
+
+}
+.about11{
+    margin-left: 20px;
+    padding: 20px;
+}
+.about111{
+    margin-left: 20px;
+    padding: 20px;
+    color: white;
+}
